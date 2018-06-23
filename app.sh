@@ -25,4 +25,9 @@ brew cask install google-japanese-ime
 brew cask install clipy
 brew cask install shiftit
 brew cask install google-backup-and-sync
+brew cask install hyper
+brew cask install alfred
+brew cask install appcleaner
+brew cask install boostnote
+brew cask install discord
 echo " ------------ END ------------"
